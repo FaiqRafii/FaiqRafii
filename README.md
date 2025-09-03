@@ -1,21 +1,9 @@
-####Praktikum Pemrograman Mobile
-####M. Faiq Rafii Wahyudi
-####230605110006
-####Kelas D
+#### Hi 👋, I'm M. Faiq Rafii Wahyudi. 
+##### Saya Mahasiswa Teknik Informatika.
 
+💻Saat ini saya sedang belajar pemrograman mobile:
 
-
-<!--
-**FaiqRafii/FaiqRafii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| No  | Tgl  | Praktikum ke  | Topik  | Modul | Template Laporan |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
+|  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 01](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Modul 01") | [Template laporan](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Template laporan") |
+|  1 | 03-09-2025  | 02  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 02](https://docs.google.com/document/d/1bAyuU6jrKHtkA4Xj5qt7JtetDfKI22JQ/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Modul 02")| [Template laporan](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Template laporan")|
