@@ -1,4 +1,9 @@
-## Hi there 👋
+## Praktikum Pemrograman Mobile
+## M. Faiq Rafii Wahyudi
+## 230605110006
+## Kelas D
+
+
 
 <!--
 **FaiqRafii/FaiqRafii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
