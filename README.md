@@ -12,4 +12,5 @@
 |  5 | 17-09-2025  | 05  | Widget SizedBox, Spacer, dan Card  | [Laporan Modul 5](https://drive.google.com/file/d/1N_iA8YurRE16_rJHCXlOFAmSyMXIJ-pp/view?usp=sharing)| [Program Modul 5](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-5)|
 |  6 | 17-09-2025  | 06  | Widget GridView, ListView, GridView.builder, dan ListView.builder  | [Laporan Modul 6](https://drive.google.com/file/d/12VbAKIg3KKMpX0veFynGrL9mdI1VO5hU/view?usp=sharing)| [Program Modul 6](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-6)|
 |  7 | 24-09-2025  | 07  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route  | [Laporan Modul 7](https://drive.google.com/file/d/11vhTdS6BakeXYBkDyXcGqoOMC9kT463Q/view?usp=sharing)| [Program Modul 7](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-7)|
-|  8 | 24-09-2025  | 08  | Widget GridView, ListView, GridView.builder, dan ListView.builder  | [Laporan Modul 6](https://drive.google.com/file/d/12VbAKIg3KKMpX0veFynGrL9mdI1VO5hU/view?usp=sharing)| [Program Modul 6](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-6)|
+|  8 | 24-09-2025  | 08  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named
+Route  | [Laporan Modul 8](https://drive.google.com/file/d/1gtBRcs7qTClaVYwCO9irJQmAYw8G8INP/view?usp=sharing)| [Program Modul 8](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-8)|
