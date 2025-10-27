@@ -16,3 +16,4 @@
 |  9 | 01-10-2025  | 09  | Stateful Widget  | [Laporan Modul 9](https://drive.google.com/file/d/1-UshMXa86Qb2e3-EugxKWE9txK1OXATb/view?usp=sharing)| [Program Modul 9](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-9)|
 |  10 | 08-10-2025  | 10  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Laporan Modul 10](https://drive.google.com/file/d/1DUXg2qyZYe1gLkC7V4dHywl7ewVzwAPN/view?usp=sharing)| [Program Modul 10](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-10)|
 |  11 | 15-10-2025  | 11  | Manajemen State dengan GetX  | [Laporan Modul 11](https://drive.google.com/file/d/1nFfbwZR54rWyvD0MUMYZ1qJ-4ql7CKGt/view?usp=sharing)| [Program Modul 11](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-11)|
+|  12 | 28-10-2025  | UTS  | Ujian Tengah Semester (UTS)  | [Laporan UTS](https://drive.google.com/file/d/1EXP1J3WCfxdnIdI2YD22MJYYgH5aDZXA/view?usp=sharing)| [Program Project](https://github.com/FaiqRafii/DTahfidz)|
