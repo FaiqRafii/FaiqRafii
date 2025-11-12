@@ -18,4 +18,4 @@
 |  11 | 15-10-2025  | 11  | Manajemen State dengan GetX  | [Laporan Modul 11](https://drive.google.com/file/d/1nFfbwZR54rWyvD0MUMYZ1qJ-4ql7CKGt/view?usp=sharing)| [Program Modul 11](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-11)|
 |  12 | 28-10-2025  | UTS  | Ujian Tengah Semester (UTS)  | [Laporan UTS](https://drive.google.com/file/d/1EXP1J3WCfxdnIdI2YD22MJYYgH5aDZXA/view?usp=sharing)| [Program Project](https://github.com/FaiqRafii/DTahfidz)|
 |  13 | 05-11-2025  | 12  | Akses Lokasi dengan GPS di Flutter  | [Laporan Modul 12](https://drive.google.com/file/d/1z9okMBXMjoyw5SpNNuoV3kZjphgK1inx/view?usp=sharing)| [Program Modul 12](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-12)|
-|  14 | 12-11-2025  | 13  | Menampilkan Google Maps Lokasi dengan GPS di Flutter  | [Program Modul 13](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-13)|
+|  14 | 12-11-2025  | 13  | Menampilkan Google Maps Lokasi dengan GPS di Flutter  | | [Program Modul 13](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-13)|
