@@ -1,22 +1,129 @@
-#### Hi 👋, I'm M. Faiq Rafii Wahyudi. 
-##### Saya Mahasiswa Teknik Informatika.
+<h1 align="center">Hi there, I'm M. Faiq Rafii Wahyudi 👋</h1>
 
-💻Saat ini saya sedang belajar pemrograman mobile:
+<p align="center">
+  Informatics Engineering Student • Backend Development Enthusiast • Tech Community Learner
+</p>
 
-| No  | Tgl  | Praktikum ke  | Topik  | Laporan Praktikum | Program |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
-|  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Laporan Modul 1](https://drive.google.com/file/d/1l4fuXOwvw1DM5kWbzXE4Q-m7yXK0l8LK/view?usp=sharing) | [Program Modul 1](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-1) |
-|  2 | 03-09-2025  | 02  | Widget Row dan Column  | [Laporan Modul 2](https://drive.google.com/file/d/11tFn_y8oqZM-qLg59P-q5H6B81rbKTYK/view?usp=sharing)| [Program Modul 2](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-2)|
-|  3 | 10-09-2025  | 03  | Pengaturan Layout Row dan Column di Flutter  | [Laporan Modul 3](https://drive.google.com/file/d/1YLX19_E71xmIdjDtqez7DoEqdaCwsb04/view?usp=sharing)| [Program Modul 3](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-3)|
-|  4 | 10-09-2025  | 04  | Widget Flexible dan Expanded  | [Laporan Modul 4](https://drive.google.com/file/d/1QAEUOlt_98VmMtnffOGNooG-fquTnwhp/view?usp=sharing)| [Program Modul 4](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-4)|
-|  5 | 17-09-2025  | 05  | Widget SizedBox, Spacer, dan Card  | [Laporan Modul 5](https://drive.google.com/file/d/1N_iA8YurRE16_rJHCXlOFAmSyMXIJ-pp/view?usp=sharing)| [Program Modul 5](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-5)|
-|  6 | 17-09-2025  | 06  | Widget GridView, ListView, GridView.builder, dan ListView.builder  | [Laporan Modul 6](https://drive.google.com/file/d/12VbAKIg3KKMpX0veFynGrL9mdI1VO5hU/view?usp=sharing)| [Program Modul 6](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-6)|
-|  7 | 24-09-2025  | 07  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route  | [Laporan Modul 7](https://drive.google.com/file/d/11vhTdS6BakeXYBkDyXcGqoOMC9kT463Q/view?usp=sharing)| [Program Modul 7](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-7)|
-|  8 | 24-09-2025  | 08  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [Laporan Modul 8](https://drive.google.com/file/d/1gtBRcs7qTClaVYwCO9irJQmAYw8G8INP/view?usp=sharing)| [Program Modul 8](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-8)|
-|  9 | 01-10-2025  | 09  | Stateful Widget  | [Laporan Modul 9](https://drive.google.com/file/d/1-UshMXa86Qb2e3-EugxKWE9txK1OXATb/view?usp=sharing)| [Program Modul 9](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-9)|
-|  10 | 08-10-2025  | 10  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Laporan Modul 10](https://drive.google.com/file/d/1DUXg2qyZYe1gLkC7V4dHywl7ewVzwAPN/view?usp=sharing)| [Program Modul 10](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-10)|
-|  11 | 15-10-2025  | 11  | Manajemen State dengan GetX  | [Laporan Modul 11](https://drive.google.com/file/d/1nFfbwZR54rWyvD0MUMYZ1qJ-4ql7CKGt/view?usp=sharing)| [Program Modul 11](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-11)|
-|  12 | 28-10-2025  | UTS  | Ujian Tengah Semester (UTS)  | [Laporan UTS](https://drive.google.com/file/d/1EXP1J3WCfxdnIdI2YD22MJYYgH5aDZXA/view?usp=sharing)| [Program Project](https://github.com/FaiqRafii/DTahfidz)|
-|  13 | 05-11-2025  | 12  | Akses Lokasi dengan GPS di Flutter  | [Laporan Modul 12](https://drive.google.com/file/d/1z9okMBXMjoyw5SpNNuoV3kZjphgK1inx/view?usp=sharing)| [Program Modul 12](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-12)|
-|  14 | 12-11-2025  | 13  | Menampilkan Google Maps Lokasi dengan GPS di Flutter  | | [Program Modul 13](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-13)|
-|  15 | 19-11-2025  | 14  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  | [Laporan Modul 14](https://drive.google.com/file/d/16mVcDuXU34zN29Oic-wywWbLVGboyLSW/view?usp=sharing) | [Program Modul 14](https://github.com/FaiqRafii/Praktikum-Mobile-Modul-14)|
+---
+
+### 👨‍💻 About Me
+
+I’m an Informatics Engineering student at **Universitas Islam Negeri Maulana Malik Ibrahim Malang** with a strong interest in **backend development, web development, mobile development, and system integration**.
+
+I enjoy building structured and useful digital products, especially around API development, database management, and real-world application systems. Besides coding, I’m also active in tech communities and student organizations, where I grow my skills in project management, event planning, communication, and leadership.
+
+Currently learning, building, and improving one project at a time.
+
+---
+
+### 🚀 Tech Stack
+
+#### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart)
+
+#### Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
+![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
+
+#### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+
+---
+
+### 📌 Featured Projects
+
+#### 📚 Integrated Library Information System Backend
+Backend service for a cross-platform library information system used across web, mobile, and desktop applications.  
+Built with **NestJS, REST API, Supabase, and PostgreSQL**.
+
+**Main features:** authentication, book management, student data, borrowing and returning transactions, reports, dashboards, QR book scanning, and library check-in.
+
+---
+
+#### 🕌 DTahfidz – Tahfidz Memorization & Attendance App
+Mobile application for managing tahfidz halaqoh activities, including attendance and memorization submissions.
+
+**Tech:** Flutter, Express.js, MongoDB  
+**Focus:** mobile app development, API integration, attendance management, memorization tracking.
+
+---
+
+#### 📊 Group Decision Support System with TOPSIS & Borda
+Web-based decision support system that combines the TOPSIS method for ranking alternatives and the Borda method for aggregating multiple decision-maker results.
+
+**Tech:** React, Express.js, MongoDB, Python, Tailwind CSS  
+**Focus:** decision support system, ranking algorithm, multi-user decision integration.
+
+---
+
+#### 🧺 Laundry Management System
+Web-based system for managing laundry transactions, staff, customers, service pricing, and WhatsApp invoice notifications.
+
+**Tech:** Laravel, Bootstrap, MySQL, JavaScript  
+**Focus:** transaction management, multi-role access, CRUD operations, automatic cost calculation.
+
+---
+
+#### 🐄 easyQurban
+Web-based qurban management system to support administrative processes for qurban event management.
+
+**Tech:** PHP Native, MySQL, JavaScript  
+**Focus:** participant data, committee workflows, distribution records, and admin dashboard.
+
+---
+
+### 🌱 Currently Exploring
+
+- Backend architecture and API development
+- Database design and optimization
+- System integration
+- Mobile and web application development
+- Project management and tech community development
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FaiqRafii&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaiqRafii&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p>
+  <a href="https://github.com/FaiqRafii">
+    <img src="https://img.shields.io/badge/GitHub-FaiqRafii-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/m-faiq-rafii-wahyudi/">
+    <img src="https://img.shields.io/badge/LinkedIn-M.%20Faiq%20Rafii%20Wahyudi-000?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:rafiiwahyudi25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rafiiwahyudi25%40gmail.com-000?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Still learning, still building, and always open to collaboration.
+</p>
