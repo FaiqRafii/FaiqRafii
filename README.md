@@ -94,19 +94,6 @@ Web-based qurban management system to support administrative processes for qurba
 - Mobile and web application development
 - Project management and tech community development
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaiqRafii&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaiqRafii&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 🤝 Connect with Me
 
@@ -117,7 +104,7 @@ Web-based qurban management system to support administrative processes for qurba
   <a href="https://linkedin.com/in/m-faiq-rafii-wahyudi/">
     <img src="https://img.shields.io/badge/LinkedIn-M.%20Faiq%20Rafii%20Wahyudi-000?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:rafiiwahyudi25@gmail.com">
+  <a href="mailto:mfaiqrafiiw@gmail.com">
     <img src="https://img.shields.io/badge/Email-rafiiwahyudi25%40gmail.com-000?style=for-the-badge&logo=gmail" />
   </a>
 </p>
